@@ -1,0 +1,16 @@
+PODS:
+  - FloatingPanel (2.8.1)
+
+DEPENDENCIES:
+  - FloatingPanel
+
+SPEC REPOS:
+  trunk:
+    - FloatingPanel
+
+SPEC CHECKSUMS:
+  FloatingPanel: 0c32d8c97e52cf6913833af573506f5d86451465
+
+PODFILE CHECKSUM: 4ff449448ff128dba6b2876a473bf315da06f8ba
+
+COCOAPODS: 1.14.3
